@@ -5,6 +5,6 @@
   2-> styles
   3-> chat-application.html
 # Task Requirements
-  >To convert the graphic into HTML with precision.
-  >HTML has to be responsive.
+  >To convert the graphic into HTML with precision.  
+  >HTML has to be responsive.  
   >Must be replicated exactly. I.e., font, color, size, etc have to be matched.
